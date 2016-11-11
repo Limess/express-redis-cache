@@ -45,9 +45,9 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "async": "~0.9.0",
+    "async": "~2.1.2",
     "colors": "^1.0.3",
-    "redis": "^0.12.1"
+    "redis": "^2.6.3"
   },
   "directories": {
     "test": "test"
@@ -57,12 +57,12 @@
     "type": "text/html"
   },
   "devDependencies": {
-    "body-parser": "~1.12.0",
+    "body-parser": "~1.15.2",
     "method-override": "~2.3.1",
-    "request": "~2.53.0",
-    "express": "~4.11.2",
-    "mocha": "~2.1.0",
-    "should": "~5.0.0",
+    "request": "~2.78.0",
+    "express": "~4.14.0",
+    "mocha": "~3.1.2",
+    "should": "~11.1.1",
     "moment": "^2.9.0"
   }
 }
